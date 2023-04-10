@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/vTalk/static/css/main.12385e9a.css",
-    "main.js": "/vTalk/static/js/main.92cdc05d.js",
+    "main.css": "/vTalk/static/css/main.d1e160c6.css",
+    "main.js": "/vTalk/static/js/main.23b4a7f4.js",
     "static/js/787.14aa3810.chunk.js": "/vTalk/static/js/787.14aa3810.chunk.js",
+    "static/media/home-page.jpg": "/vTalk/static/media/home-page.19d623c8ef837d332247.jpg",
     "static/media/forgot-password.png": "/vTalk/static/media/forgot-password.c613c0856711420b74d5.png",
     "static/media/chatbot.png": "/vTalk/static/media/chatbot.de9f3563bc161d6ac764.png",
     "index.html": "/vTalk/index.html",
-    "main.12385e9a.css.map": "/vTalk/static/css/main.12385e9a.css.map",
-    "main.92cdc05d.js.map": "/vTalk/static/js/main.92cdc05d.js.map",
+    "main.d1e160c6.css.map": "/vTalk/static/css/main.d1e160c6.css.map",
+    "main.23b4a7f4.js.map": "/vTalk/static/js/main.23b4a7f4.js.map",
     "787.14aa3810.chunk.js.map": "/vTalk/static/js/787.14aa3810.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12385e9a.css",
-    "static/js/main.92cdc05d.js"
+    "static/css/main.d1e160c6.css",
+    "static/js/main.23b4a7f4.js"
   ]
 }
